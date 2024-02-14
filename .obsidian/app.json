@@ -1,0 +1,12 @@
+{
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": true,
+  "readableLineLength": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Automation, Templates & Attachments/Attachments",
+  "userIgnoreFilters": [
+    "Automation, Templates & Attachments/Attachments/"
+  ],
+  "showLineNumber": false
+}
