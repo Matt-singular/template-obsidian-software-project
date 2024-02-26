@@ -1,2 +1,2 @@
-# Obsidian-specific files
-.obsidian/workspaces.json
+# Obsidian-specific files to ignore
+.obsidian/workspace.json
