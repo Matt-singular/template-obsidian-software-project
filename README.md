@@ -5,7 +5,7 @@ Have a look through each of the sections (there are some placeholder files that 
 
 You are encouraged to revise and change the structure to fit your project needs (for starters you should replace this welcome message with a project specific one)
 
-## 🪧 Sections
+## 🪧 Main Sections
 ###### 1. [Attachments, Scripts & Templates](Attachments,%20Scripts%20&%20Templates/README.md)
 ###### 2. [Onboarding](Onboarding/README.md)
 ###### 3. [Planning & Analysis](Planning%20&%20Analysis/README.md)
