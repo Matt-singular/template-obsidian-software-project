@@ -1,0 +1,20 @@
+.markdown-preview-view file-name {
+    display: none;
+}
+
+.theme-light .view-header-title {
+    color: black;
+}
+
+.view-header-title {
+    font-size: 15px;
+    color: var(--title-color);
+} 
+
+.inline-title {
+    display: none;
+}
+
+.cm-contentContainer {
+    margin-top: -50px;
+}

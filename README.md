@@ -21,6 +21,3 @@ Obsidian uses a plaintext markdown format and will create complex networks and g
 Some simple community plugins have been enabled here to enhance templating, diagrams and more.
 
 Download Obsidian from their [official website](https://obsidian.md).
-
-## TODO
-1. add custom css to hide the top-level header inside obsidian
