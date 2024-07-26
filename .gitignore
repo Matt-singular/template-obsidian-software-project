@@ -3,8 +3,3 @@
 .obsidian/snippets
 .obsidian/themes
 .obsidian/workspace.json
-# Obsidian plugins folders - ignore everything except the data.json files
-.obsidian/plugins/*
-!.obsidian/plugins/*/
-.obsidian/plugins/*/**
-!.obsidian/plugins/*/data.json
