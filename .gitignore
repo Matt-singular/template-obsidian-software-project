@@ -1,2 +1,10 @@
-# Obsidian-specific files to ignore
+# Obsidian-specific files & folders to ignore
+.obsidian/icons
+.obsidian/snippets
+.obsidian/themes
 .obsidian/workspace.json
+# Obsidian plugins folders - ignore everything except the data.json files
+.obsidian/plugins/*
+!.obsidian/plugins/*/
+.obsidian/plugins/*/**
+!.obsidian/plugins/*/data.json
